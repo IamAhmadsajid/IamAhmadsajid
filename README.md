@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamAhmadsajid
 - 👀 Cyber Security is my field
-- 🌱 I’m currently learning Full Stack Web development
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m a student of BS Computer Science
 - 📫 You can contact me through my email: itxahmadhere@gmail.com
 
