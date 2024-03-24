@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamAhmadsajid
 - 👀 Cyber Security is my field
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m a student of BS Cyber Security 
+- 💞️ I’m a student of BS Digital Forensics & Cyber Security 
 - 📫 You can contact me through my email: itxahmadhere@gmail.com
 
 <!---
