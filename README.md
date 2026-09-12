@@ -4,7 +4,7 @@
 
 ### Cybersecurity Analyst · Digital Forensics · Malware Analysis · Penetration Testing
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=sudo+whoami+%3D%3E+security_researcher;analyzing+malware+with+Ghidra+%26+IDA+Pro;building+ML-powered+phishing+detectors;Funtional%25Consultant/Engineer%25at%25Phishrod" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=sudo+whoami+%3D%3E+security_researcher;analyzing+malware+with+Ghidra+%26+IDA+Pro;building+ML-powered+phishing+detectors;Funtional+%25+Consultant/Engineer+%25+at+%25+Phishrod" alt="Typing SVG" />
 
 📍 Lahore, Punjab, Pakistan
 
